@@ -8,8 +8,8 @@ http://18.177.15.224
 
 ## Basic 認証
 
-user: admin
-password: password
+- user: admin
+- password: password
 
 ### 使用技術
 
