@@ -13,11 +13,10 @@ password: password
 
 ### 使用技術
 
-Ruby 2.5.1p57
-Rails 5.2.3
-RSpec
-AWS
-
+- Ruby 2.5.1p57
+- Rails 5.2.3
+- RSpec
+- AWS
 - EC2
 - S3
 
